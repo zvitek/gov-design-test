@@ -3,7 +3,7 @@ import http from "http";
 import * as zlib from "zlib";
 import { Readable, pipeline } from "stream";
 
-const targetUrl = "http://localhost:3000";
+const targetUrl = "https://gov-design-test.vercel.app/";
 const PORT = 3001;
 
 const server = http.createServer((req, res) => {
