@@ -1,0 +1,10 @@
+[type=outlined][variant=primary][inverse=""].gov-button .element:focus-visible {
+    outline-offset: 3px;
+    outline: solid white;
+    outline-width: 2px;
+}
+
+[size=m].gov-button .element .gov-icon {
+    width: 1rem;
+    height: 1rem;
+}
