@@ -9,7 +9,7 @@ const HeaderLogo = () => {
       href="/"
       aria-label={"logo"}
     >
-      <GovIcon type="basic" name="logo" className="h-[52px] w-[52px]" />
+      <GovIcon type="basic" name="logo" class="h-[52px] w-[52px]" />
       <div className="ml-4 hidden text-lg font-bold text-white sm:block">
         Logo title
       </div>
